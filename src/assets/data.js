@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "What is the capital of France?",
+    op1: "Berlin",
+    op2: "Madrid",
+    op3: "Paris",
+    op4: "Rome",
+    ans: 3,
+  },
+  {
+    question: "Who developed the theory of relativity?",
+    op1: "Isaac Newton",
+    op2: "Albert Einstein",
+    op3: "Galileo Galilei",
+    op4: "Nikola Tesla",
+    ans: 2,
+  },
+  {
+    question: "What is the chemical symbol for water?",
+    op1: "H2O",
+    op2: "O2",
+    op3: "CO2",
+    op4: "NaCl",
+    ans: 1,
+  },
+  {
+    question: "What is the square root of 64?",
+    op1: "6",
+    op2: "7",
+    op3: "8",
+    op4: "9",
+    ans: 3,
+  },
+  {
+    question: "Who wrote 'Romeo and Juliet'?",
+    op1: "Charles Dickens",
+    op2: "William Shakespeare",
+    op3: "Mark Twain",
+    op4: "Jane Austen",
+    ans: 2,
+  },
+];
